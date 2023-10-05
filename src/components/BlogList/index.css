@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.blogs-list-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: 30px;
+}
